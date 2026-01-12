@@ -1,11 +1,20 @@
 [
   {
-    "name": "Alyafaee",
-    "id": "alyafaee",
+    "name": "Tachiyomi: Alyafaee",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.alyafaee",
+    "apk": "https://raw.githubusercontent.com/yourusername/alyafaee-tachimanga/apk/tachiyomi-ar.alyafaee-v1.0.0.apk",
     "lang": "ar",
-    "type": "manga",
-    "baseUrl": "https://alyafaee.com",
-    "version": "1",
-    "source": "madara"
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Alyafaee",
+        "lang": "ar",
+        "id": "9876543210123456789",
+        "baseUrl": "https://alyafaee.com",
+        "versionId": 1
+      }
+    ]
   }
 ]
